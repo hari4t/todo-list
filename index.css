@@ -1,0 +1,40 @@
+body {
+  background: rgb(91, 80, 153);
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+.btn {
+  background: #db082b;
+  margin: 20px;
+}
+
+.add-btn {
+  background: rgb(185, 187, 62);
+  width: 40px;
+  height: 40px;
+}
+.app-title {
+  text-align: center;
+  color: lightblue;
+  font-size: 70px;
+}
+.container {
+  border: 5px solid rgb(202, 22, 52);
+  border-radius: 25px;
+}
+
+.center {
+  padding: 30;
+  text-align: "left";
+  max-width: 500;
+  margin: "auto";
+  text-align: center;
+  color: rgb(66, 146, 79);
+}
+
+.inputText {
+  width: 100px;
+  height: 40px;
+  padding: 30;
+}
